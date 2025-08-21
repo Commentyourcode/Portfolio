@@ -98,6 +98,8 @@ header{
 }
 
 .abouttxt a, .projects a, .contact a{
-    color:white;
+    color: white;
+    font-size: 24pt;
 }
+
 
